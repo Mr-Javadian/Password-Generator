@@ -1,4 +1,4 @@
-# Serial-Number-Generator
+# Password-Generator
 This project will help you in creating serial numbers for your software or device.
 it might not be the best but I'm trying to create as perfectly as I can.
 ________________________
